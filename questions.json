@@ -1,0 +1,256 @@
+{
+  "heading": "select a topic",
+  "topics": [
+    {
+      "heading": "Normal",
+      "questions": [
+  {
+    "questionNo": 1,
+    "question": "Fill in with the correct comparative adjective:<br> This car is the ______ in its class.",
+    "options": [
+      { "text": "fast" },
+      { "text": "faster" },
+      { "text": "fastest" },
+      { "text": "most fast" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 2,
+    "question": "The simple predicate of the sentence \"Birds fly in the sky\" is ______.",
+    "options": [
+      { "text": "sky" },
+      { "text": "fly" },
+      { "text": "in the sky" },
+      { "text": "fly in the sky" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 3,
+    "question": "Fill in with the correct conjunction:<br> We went to the park ______ it was a sunny day.",
+    "options": [
+      { "text": "and" },
+      { "text": "but" },
+      { "text": "because" },
+      { "text": "or" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 4,
+    "question": "Fill in with the correct preposition:<br> The mouse is hiding ______ the sofa.",
+    "options": [
+      { "text": "on" },
+      { "text": "under" },
+      { "text": "in" },
+      { "text": "at" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 5,
+    "question": "Which of the following is a complete sentence?",
+    "options": [
+      { "text": "The lion roared." },
+      { "text": "Chasing the squirrel." },
+      { "text": "Ran quickly down the street." },
+      { "text": "And then it rained." }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 6,
+    "question": "Fill in with the correct comparative adjective:<br> The movie was ______ than the book.",
+    "options": [
+      { "text": "excited" },
+      { "text": "more exciting" },
+      { "text": "most exciting" },
+      { "text": "excitinger" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 7,
+    "question": "In the sentence \"She loves to read books,\" ______ is the simple subject.",
+    "options": [
+      { "text": "She" },
+      { "text": "loves to read" },
+      { "text": "books" },
+      { "text": "She loves" }
+    ],
+    "answer": 0
+  }
+]
+ 
+    },
+    {
+      "heading": "Level 1",
+      "questions": [
+  {
+    "questionNo": 1,
+    "question": "Select the appropriate synonym for the word given in the bracket:<br> The movie was a _____ (massive) disappointment, failing to live up to expectations.",
+    "options": [
+      { "text": "tiny" },
+      { "text": "colossal" },
+      { "text": "minuscule" },
+      { "text": "disruption" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 2,
+    "question": "Which of the following is an abstract noun?",
+    "options": [
+      { "text": "ocean" },
+      { "text": "laughter" },
+      { "text": "wind" },
+      { "text": "computer" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 3,
+    "question": "Name the highlighted pronoun in the following sentence:<br> \"The book that I borrowed from the library is due next week.\"",
+    "options": [
+      { "text": "Demonstartive" },
+      { "text": "Reflexive" },
+      { "text": "Relative" },
+      { "text": "Possessive" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 4,
+    "question": "Choose the correct word to complete the sentence:<br> \"The turtle moved _____ across the sand.\"",
+    "options": [
+      { "text": "slow" },
+      { "text": "slowly" },
+      { "text": "slowest" },
+      { "text": "slowing" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 5,
+    "question": "Choose the antonym for \"honest\":",
+    "options": [
+      { "text": "truthful" },
+      { "text": "sincere" },
+      { "text": "deceptive" },
+      { "text": "trustworthy" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 6,
+    "question": "Which of the following is a demonstrative pronoun?",
+    "options": [
+      { "text": "this" },
+      { "text": "his" },
+      { "text": "we" },
+      { "text": "whom" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 7,
+    "question": "Which of the following is an adverb of manner?",
+    "options": [
+      { "text": "never" },
+      { "text": "tomorrow" },
+      { "text": "outside" },
+      { "text": "quickly" }
+    ],
+    "answer": 3
+  }
+]
+
+      
+      
+    },
+    {
+      "heading": "Level 2",
+      "questions": [
+  {
+    "questionNo": 1,
+    "question": "When someone \"muses\" about something, what are they doing?",
+    "options": [
+      { "text": "Singing about it" },
+      { "text": "Thinking carefully about it for a long time" },
+      { "text": "Quickly forgetting about it" },
+      { "text": "Arguing about it" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 2,
+    "question": "Which of the following is an example of a noun phrase?",
+    "options": [
+      { "text": "Jumping high" },
+      { "text": "Before lunch" },
+      { "text": "After school" },
+      { "text": "The tall, green tree" }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 3,
+    "question": "Which pair of words form a correlative conjunction?",
+    "options": [
+      { "text": "And...but" },
+      { "text": "Either...or" },
+      { "text": "Because...so" },
+      { "text": "When...then" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 4,
+    "question": "What is the full form of contraction \"won't\"?",
+    "options": [
+      { "text": "was not" },
+      { "text": "would not" },
+      { "text": "were not" },
+      { "text": "will not" }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 5,
+    "question": "Which of the following sentences is in the future perfect tense?",
+    "options": [
+      { "text": "They will have eaten dinner by the time we arrive." },
+      { "text": "They have eaten dinner already." },
+      { "text": "They had eaten dinner before we arrived." },
+      { "text": "They eat dinner at 7 p.m. every day." }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 6,
+    "question": "Fill in the blank with the correct verb in the past perfect continuous tense:<br> \"By the time the train arrived, we _____ for over an hour.\"",
+    "options": [
+      { "text": "have been waiting" },
+      { "text": "had been waiting" },
+      { "text": "will have been waiting" },
+      { "text": "are waiting" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 7,
+    "question": "Choose the run-on sentence:",
+    "options": [
+      { "text": "I went to the store, and I bought some apples." },
+      { "text": "The dog chased the ball around the yard." },
+      { "text": "We walked to the park it was so much fun." },
+      { "text": "She is baking cookies for the school event." }
+    ],
+    "answer": 2
+  }
+]
+
+    }
+  ]
+}
