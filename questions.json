@@ -111,7 +111,7 @@
   },
   {
     "questionNo": 3,
-    "question": "Name the highlighted pronoun in the following sentence:<br> \"The book that I borrowed from the library is due next week.\"",
+    "question": "Name the highlighted pronoun in the following sentence:<br> \"The book <b style='color:blue'>that</b> I borrowed from the library is due next week.\"",
     "options": [
       { "text": "Demonstartive" },
       { "text": "Reflexive" },
